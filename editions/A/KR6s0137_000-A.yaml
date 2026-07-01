@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0137/a/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新譯大方廣佛華嚴經音義
+  edition:
+    short: a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A091/A091n1057.xml
+    old_id: A091n1057
+hash: sha256:7aad5b6210119bdd962c702b942f5da3b0bfb26ec37048dda3fe39456ba7409e

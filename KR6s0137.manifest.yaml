@@ -1,0 +1,1811 @@
+canonical_identifier: bkk:krp/KR6s0137/v1
+canonical_location: https://kanripo.org/bkk/KR6s0137/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 新譯大方廣佛華嚴經音義
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A091/A091n1057.xml
+    old_id: A091n1057
+  edition:
+    short: bkk
+editions:
+- short: 金藏
+  label: 金藏
+  source_xml_id: wit.orig
+- short: A
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0137_000.yaml, hash: 'sha256:7aad5b6210119bdd962c702b942f5da3b0bfb26ec37048dda3fe39456ba7409e'}
+  - {seq: 1, filename: KR6s0137_001.yaml, hash: 'sha256:a77b078179b1e9377c5b7c4c0776353cc1bc20e5b730b2a7acbb21e877ccd840'}
+  - {seq: 2, filename: KR6s0137_002.yaml, hash: 'sha256:b454b19a8fec62e7ab95c6b1601f59ebaa3c123d00f94a44205cbb2b270c03bd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0137_001.markers.yaml, hash: 'sha256:5052f3f698236b90e657195909e651217fabddbc21cd7ec079df3c037522c236'}
+  - {seq: 2, role: markers, filename: assets/KR6s0137_002.markers.yaml, hash: 'sha256:7091738d71871b15df27bf1ab75c848920f64d25e3efc9d8fc52f09fd708c103'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-juan-start
+    span:
+    - body
+    - 0
+    - 21327
+  label: 新譯大方廣佛華嚴經音義卷上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-2
+    span:
+    - body
+    - 319
+    - 319
+  label: 經序音義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-3
+    span:
+    - body
+    - 1508
+    - 1508
+  label: 經卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-4
+    span:
+    - body
+    - 1512
+    - 1512
+  label: 世主妙嚴品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-5
+    span:
+    - body
+    - 3927
+    - 3927
+  label: 經卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-6
+    span:
+    - body
+    - 3931
+    - 3931
+  label: 世主妙嚴品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-7
+    span:
+    - body
+    - 4139
+    - 4139
+  label: 經卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-8
+    span:
+    - body
+    - 4143
+    - 4143
+  label: 世主妙嚴品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-9
+    span:
+    - body
+    - 4702
+    - 4702
+  label: 經卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-10
+    span:
+    - body
+    - 4706
+    - 4706
+  label: 世主妙嚴品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-11
+    span:
+    - body
+    - 5089
+    - 5089
+  label: 經卷第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-12
+    span:
+    - body
+    - 5093
+    - 5093
+  label: 世主妙嚴品之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-13
+    span:
+    - body
+    - 5683
+    - 5683
+  label: 經卷第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-14
+    span:
+    - body
+    - 5687
+    - 5687
+  label: 如來現相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-15
+    span:
+    - body
+    - 6022
+    - 6022
+  label: 經卷第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-16
+    span:
+    - body
+    - 6026
+    - 6026
+  label: 普賢三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-17
+    span:
+    - body
+    - 6089
+    - 6089
+  label: 世界成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-18
+    span:
+    - body
+    - 6295
+    - 6295
+  label: 經卷第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-19
+    span:
+    - body
+    - 6299
+    - 6299
+  label: 華藏世界品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-20
+    span:
+    - body
+    - 7016
+    - 7016
+  label: 經卷第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-21
+    span:
+    - body
+    - 7020
+    - 7020
+  label: 華藏世界品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-22
+    span:
+    - body
+    - 7255
+    - 7255
+  label: 經卷第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-23
+    span:
+    - body
+    - 7259
+    - 7259
+  label: 華藏世界品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-24
+    span:
+    - body
+    - 7686
+    - 7686
+  label: 經卷第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-25
+    span:
+    - body
+    - 7691
+    - 7691
+  label: 毗盧遮那品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-26
+    span:
+    - body
+    - 8351
+    - 8351
+  label: 經卷第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-27
+    span:
+    - body
+    - 8356
+    - 8356
+  label: 如來名号品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-28
+    span:
+    - body
+    - 8795
+    - 8795
+  label: 四聖諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-29
+    span:
+    - body
+    - 9284
+    - 9284
+  label: 經卷第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-30
+    span:
+    - body
+    - 9289
+    - 9289
+  label: 光明覺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-31
+    span:
+    - body
+    - 9696
+    - 9696
+  label: 菩薩問明品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-32
+    span:
+    - body
+    - 10459
+    - 10459
+  label: 經卷第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-33
+    span:
+    - body
+    - 10464
+    - 10464
+  label: 淨行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-34
+    span:
+    - body
+    - 11562
+    - 11562
+  label: 賢首菩薩品上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-35
+    span:
+    - body
+    - 11942
+    - 11942
+  label: 經卷第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-36
+    span:
+    - body
+    - 11947
+    - 11947
+  label: 賢首菩薩品下
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-37
+    span:
+    - body
+    - 12921
+    - 12921
+  label: 經卷第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-38
+    span:
+    - body
+    - 12926
+    - 12926
+  label: 昇須󳇐頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-39
+    span:
+    - body
+    - 13236
+    - 13236
+  label: 湏󳇐頂上偈讚品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-40
+    span:
+    - body
+    - 13369
+    - 13369
+  label: 菩薩十住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-41
+    span:
+    - body
+    - 13434
+    - 13434
+  label: 經卷第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-42
+    span:
+    - body
+    - 13439
+    - 13439
+  label: 梵行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-43
+    span:
+    - body
+    - 13760
+    - 13760
+  label: 初發心功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-44
+    span:
+    - body
+    - 14332
+    - 14332
+  label: 經卷第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-45
+    span:
+    - body
+    - 14337
+    - 14337
+  label: 明法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-46
+    span:
+    - body
+    - 14513
+    - 14513
+  label: 經卷第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-47
+    span:
+    - body
+    - 14518
+    - 14518
+  label: 佛昇夜摩天宮品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-48
+    span:
+    - body
+    - 14544
+    - 14544
+  label: 夜摩宮中偈讚品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-49
+    span:
+    - body
+    - 14574
+    - 14574
+  label: 十行品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-50
+    span:
+    - body
+    - 14920
+    - 14920
+  label: 經卷第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-51
+    span:
+    - body
+    - 14925
+    - 14925
+  label: 十行品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-52
+    span:
+    - body
+    - 15271
+    - 15271
+  label: 經卷第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-53
+    span:
+    - body
+    - 15277
+    - 15277
+  label: 十無盡藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-54
+    span:
+    - body
+    - 15907
+    - 15907
+  label: 經卷第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-55
+    span:
+    - body
+    - 15913
+    - 15913
+  label: 昇兜率天宮品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-56
+    span:
+    - body
+    - 16554
+    - 16554
+  label: 經卷第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-57
+    span:
+    - body
+    - 16560
+    - 16560
+  label: 兜率天宮偈讚品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-58
+    span:
+    - body
+    - 16609
+    - 16609
+  label: 十迴向品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-59
+    span:
+    - body
+    - 16972
+    - 16972
+  label: 經卷第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-60
+    span:
+    - body
+    - 16978
+    - 16978
+  label: 十迴向品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-61
+    span:
+    - body
+    - 17236
+    - 17236
+  label: 經卷第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-62
+    span:
+    - body
+    - 17242
+    - 17242
+  label: 十迴向品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-63
+    span:
+    - body
+    - 17723
+    - 17723
+  label: 經卷第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-64
+    span:
+    - body
+    - 17729
+    - 17729
+  label: 十迴向品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-65
+    span:
+    - body
+    - 18387
+    - 18387
+  label: 經卷第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-66
+    span:
+    - body
+    - 18393
+    - 18393
+  label: 十迴向品之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-67
+    span:
+    - body
+    - 18755
+    - 18755
+  label: 經卷第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-68
+    span:
+    - body
+    - 18761
+    - 18761
+  label: 十迴向品之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-69
+    span:
+    - body
+    - 19149
+    - 19149
+  label: 經卷第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-70
+    span:
+    - body
+    - 19155
+    - 19155
+  label: 十迴向品之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-71
+    span:
+    - body
+    - 19258
+    - 19258
+  label: 經卷第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-72
+    span:
+    - body
+    - 19263
+    - 19263
+  label: 十迴向品之八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-73
+    span:
+    - body
+    - 19302
+    - 19302
+  label: 經卷第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-74
+    span:
+    - body
+    - 19308
+    - 19308
+  label: 十迴向品之九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-75
+    span:
+    - body
+    - 19375
+    - 19375
+  label: 經卷第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-76
+    span:
+    - body
+    - 19381
+    - 19381
+  label: 十迴向品之十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-77
+    span:
+    - body
+    - 19407
+    - 19407
+  label: 經卷第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-78
+    span:
+    - body
+    - 19413
+    - 19413
+  label: 十迴向品之十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-79
+    span:
+    - body
+    - 19578
+    - 19578
+  label: 經卷第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-80
+    span:
+    - body
+    - 19584
+    - 19584
+  label: 十地品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-81
+    span:
+    - body
+    - 19818
+    - 19818
+  label: 經卷第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-82
+    span:
+    - body
+    - 19824
+    - 19824
+  label: 十地品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-83
+    span:
+    - body
+    - 20204
+    - 20204
+  label: 經卷第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-84
+    span:
+    - body
+    - 20210
+    - 20210
+  label: 十地品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-85
+    span:
+    - body
+    - 20546
+    - 20546
+  label: 經卷第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-86
+    span:
+    - body
+    - 20552
+    - 20552
+  label: 十地品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-87
+    span:
+    - body
+    - 20665
+    - 20665
+  label: 經卷第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-88
+    span:
+    - body
+    - 20671
+    - 20671
+  label: 十地品之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-89
+    span:
+    - body
+    - 20901
+    - 20901
+  label: 經卷第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-90
+    span:
+    - body
+    - 20907
+    - 20907
+  label: 十地品之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-91
+    span:
+    - body
+    - 21276
+    - 21276
+  label: 經卷第四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0137_A_001-mulu-92
+    span:
+    - body
+    - 21281
+    - 21281
+  label: 十定品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-juan-start
+    span:
+    - body
+    - 0
+    - 17199
+  label: 新譯大方廣佛花嚴經音義卷下　　轉
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 經卷第四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 十定品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-3
+    span:
+    - body
+    - 535
+    - 535
+  label: 經卷第四十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-4
+    span:
+    - body
+    - 541
+    - 541
+  label: 十定品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-5
+    span:
+    - body
+    - 1034
+    - 1034
+  label: 經卷第四十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-6
+    span:
+    - body
+    - 1040
+    - 1040
+  label: 十定品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-7
+    span:
+    - body
+    - 1187
+    - 1187
+  label: 經卷第四十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-8
+    span:
+    - body
+    - 1193
+    - 1193
+  label: 十通品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-9
+    span:
+    - body
+    - 1216
+    - 1216
+  label: 十忍品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-10
+    span:
+    - body
+    - 1305
+    - 1305
+  label: 經卷第四十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-11
+    span:
+    - body
+    - 1311
+    - 1311
+  label: 阿僧祇品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-12
+    span:
+    - body
+    - 1582
+    - 1582
+  label: 壽量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-13
+    span:
+    - body
+    - 1655
+    - 1655
+  label: 諸菩薩住處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-14
+    span:
+    - body
+    - 2317
+    - 2317
+  label: 經卷第四十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-15
+    span:
+    - body
+    - 2323
+    - 2323
+  label: 佛不思議法品之上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-16
+    span:
+    - body
+    - 2385
+    - 2385
+  label: 經卷第四十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-17
+    span:
+    - body
+    - 2391
+    - 2391
+  label: 佛不思議法品之下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-18
+    span:
+    - body
+    - 2637
+    - 2637
+  label: 經卷第四十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-19
+    span:
+    - body
+    - 2643
+    - 2643
+  label: 如來十身相海品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-20
+    span:
+    - body
+    - 3063
+    - 3063
+  label: 如來隨好光明功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-21
+    span:
+    - body
+    - 3222
+    - 3222
+  label: 經卷第四十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-22
+    span:
+    - body
+    - 3228
+    - 3228
+  label: 普賢行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-23
+    span:
+    - body
+    - 3507
+    - 3507
+  label: 經卷第五十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-24
+    span:
+    - body
+    - 3512
+    - 3512
+  label: 如來出現品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-25
+    span:
+    - body
+    - 3914
+    - 3914
+  label: 經卷第五十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-26
+    span:
+    - body
+    - 3920
+    - 3920
+  label: 如來出現品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-27
+    span:
+    - body
+    - 4002
+    - 4002
+  label: 經卷第五十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-28
+    span:
+    - body
+    - 4008
+    - 4008
+  label: 如來出現品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-29
+    span:
+    - body
+    - 4115
+    - 4115
+  label: 經卷第五十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-30
+    span:
+    - body
+    - 4121
+    - 4121
+  label: 離世閒品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-31
+    span:
+    - body
+    - 4232
+    - 4232
+  label: 經卷第五十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-32
+    span:
+    - body
+    - 4238
+    - 4238
+  label: 離世閒品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-33
+    span:
+    - body
+    - 4274
+    - 4274
+  label: 經卷第五十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-34
+    span:
+    - body
+    - 4280
+    - 4280
+  label: 離世閒品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-35
+    span:
+    - body
+    - 4531
+    - 4531
+  label: 經卷第五十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-36
+    span:
+    - body
+    - 4537
+    - 4537
+  label: 離世閒品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-37
+    span:
+    - body
+    - 4674
+    - 4674
+  label: 經卷第五十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-38
+    span:
+    - body
+    - 4680
+    - 4680
+  label: 離世閒品之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-39
+    span:
+    - body
+    - 4877
+    - 4877
+  label: 經卷第五十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-40
+    span:
+    - body
+    - 4883
+    - 4883
+  label: 離世閒品之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-41
+    span:
+    - body
+    - 5600
+    - 5600
+  label: 經卷第五十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-42
+    span:
+    - body
+    - 5606
+    - 5606
+  label: 離世閒品之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-43
+    span:
+    - body
+    - 6192
+    - 6192
+  label: 經卷第六十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-44
+    span:
+    - body
+    - 6197
+    - 6197
+  label: 入法界品之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-45
+    span:
+    - body
+    - 7436
+    - 7436
+  label: 經卷第六十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-46
+    span:
+    - body
+    - 7442
+    - 7442
+  label: 入法界品之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-47
+    span:
+    - body
+    - 7598
+    - 7598
+  label: 經卷第六十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-48
+    span:
+    - body
+    - 7604
+    - 7604
+  label: 入法界品之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-49
+    span:
+    - body
+    - 8392
+    - 8392
+  label: 經卷第六十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-50
+    span:
+    - body
+    - 8398
+    - 8398
+  label: 入法界品之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-51
+    span:
+    - body
+    - 8901
+    - 8901
+  label: 經卷第六十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-52
+    span:
+    - body
+    - 8907
+    - 8907
+  label: 入法界品之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-53
+    span:
+    - body
+    - 9609
+    - 9609
+  label: 經卷第六十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-54
+    span:
+    - body
+    - 9615
+    - 9615
+  label: 入法界品之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-55
+    span:
+    - body
+    - 9851
+    - 9851
+  label: 經卷第六十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-56
+    span:
+    - body
+    - 9857
+    - 9857
+  label: 入法界品之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-57
+    span:
+    - body
+    - 10734
+    - 10734
+  label: 經卷第六十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-58
+    span:
+    - body
+    - 10740
+    - 10740
+  label: 入法界品之八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-59
+    span:
+    - body
+    - 11262
+    - 11262
+  label: 經卷第六十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-60
+    span:
+    - body
+    - 11268
+    - 11268
+  label: 入法界品之九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-61
+    span:
+    - body
+    - 12046
+    - 12046
+  label: 經卷第六十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-62
+    span:
+    - body
+    - 12052
+    - 12052
+  label: 入法界品之十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-63
+    span:
+    - body
+    - 12364
+    - 12364
+  label: 經卷第七十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-64
+    span:
+    - body
+    - 12369
+    - 12369
+  label: 入法界品之十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-65
+    span:
+    - body
+    - 12599
+    - 12599
+  label: 經卷第七十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-66
+    span:
+    - body
+    - 12605
+    - 12605
+  label: 入法界品之十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-67
+    span:
+    - body
+    - 12682
+    - 12682
+  label: 經卷第七十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-68
+    span:
+    - body
+    - 12688
+    - 12688
+  label: 入法界品之十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-69
+    span:
+    - body
+    - 13216
+    - 13216
+  label: 經卷第七十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-70
+    span:
+    - body
+    - 13222
+    - 13222
+  label: 入法界品之十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-71
+    span:
+    - body
+    - 13638
+    - 13638
+  label: 經卷第七十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-72
+    span:
+    - body
+    - 13644
+    - 13644
+  label: 入法界品之十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-73
+    span:
+    - body
+    - 13847
+    - 13847
+  label: 經卷第七十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-74
+    span:
+    - body
+    - 13853
+    - 13853
+  label: 入法界品之十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-75
+    span:
+    - body
+    - 14504
+    - 14504
+  label: 經卷第七十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-76
+    span:
+    - body
+    - 14510
+    - 14510
+  label: 入法界品之十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-77
+    span:
+    - body
+    - 15255
+    - 15255
+  label: 經卷第七十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-78
+    span:
+    - body
+    - 15261
+    - 15261
+  label: 入法界品之十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-79
+    span:
+    - body
+    - 15649
+    - 15649
+  label: 經卷第七十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-80
+    span:
+    - body
+    - 15655
+    - 15655
+  label: 入法界品之十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-81
+    span:
+    - body
+    - 16657
+    - 16657
+  label: 經卷第七十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-82
+    span:
+    - body
+    - 16663
+    - 16663
+  label: 入法界品之二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-83
+    span:
+    - body
+    - 16875
+    - 16875
+  label: 經卷第八十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0137_A_002-mulu-84
+    span:
+    - body
+    - 16880
+    - 16880
+  label: 入法界品之二十一
+  type: mulu
+  level: 1
+hash: sha256:9c25de868f4444375da38d88a579fd7d326bf6be207a655020248df919af84a3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
